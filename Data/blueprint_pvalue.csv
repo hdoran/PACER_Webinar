@@ -1,0 +1,10 @@
+dimension,category,min_items,max_items,constraint_type,target_theta,notes
+total,,20,20,,,Total items per form
+strands1,Strand1,5,5,,,
+strands1,Strand2,5,5,,,
+strands1,Strand3,5,5,,,
+strands1,Strand4,5,5,,,
+model_type,dichotomous,0,15,,,
+model_type,polytomous,0,5,,,
+pvalue,,12,14,numeric_sum,,Sum of p-values across selected items
+,,,,maximize_tif,,Maximize info at θ=0

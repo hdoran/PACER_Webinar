@@ -1,0 +1,8 @@
+theta,min_info,max_info,label
+-3,0,8,low range
+-2,3,12,below average
+-1,2,10,lower target
+0,2,10,target region
+1,2,10,upper target
+2,2,12,above average
+3,0,8,high range
